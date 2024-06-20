@@ -1,0 +1,5 @@
+view\TelaPrincipal.class
+com\mycompany\agendadecontatos\AgendaDeContatos.class
+modelDominio\ContatoDAO.class
+model\Contato.class
+model\AgendaContato.class
